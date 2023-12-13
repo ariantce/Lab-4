@@ -5,7 +5,7 @@
 
 using namespace std;
 
-double* Gauss(double** Array_A, double* Array_B, int n);
+double* Gauss(double** A, double* b, int n);
 
 int main()
 {
